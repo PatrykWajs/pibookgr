@@ -1,0 +1,12 @@
+---
+title: Annan-Education
+text: 'Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.'-Annan
+layout: quote
+header: no
+show_meta: false
+categories:
+  - quotes
+tags:
+  - method
+  - Kofi Annan
+---
